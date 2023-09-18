@@ -1,0 +1,115 @@
+body {
+color: #000000;
+font-size: 16px;
+font-weight: 400;
+font-family: 'Roboto','Poppins',  Arial, Helvetica, sans-serif;
+line-height: 26px;
+background: #EEEFF1;
+
+}
+
+.container {
+
+    max-width: 1150px;
+    width: 100% ;
+    margin: 0 auto;
+  
+   
+   
+    
+
+}
+
+.menu {
+    padding: 7px 0 0;
+    display: inline-block;
+    text-decoration: none;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    
+
+}
+
+.menu ul {
+    
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+.menu li {
+    width: 137px;
+    height: 27px;
+    text-align: center;
+    display: inline-block;
+    padding: 0 10px;
+
+
+}
+.hero-section {
+    padding: 0 20px;
+    background: #EEEFF1;
+    padding-top: 100px;
+    
+}
+.btn {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 20px 40px;
+    text-transform: uppercase;
+    background: #34547A;
+    color: white;
+    text-decoration: none;
+   
+}
+
+.btn:hover {
+    background: green;
+    
+}
+
+.text-box {
+    max-width: 540px;
+}
+
+.text-box1 {
+
+    text-align: center;
+    padding: 0 260px;
+    background: #F9F9F9;
+
+}
+
+.image {
+    background: #34547A;
+    max-width: 1150px;
+    width: 100% ;
+    margin: 0 auto;
+    color: white;
+}
+
+.text-box2 {
+    text-align: center;
+    padding: 0 210px;
+}
+
+.video {
+
+    text-align: center;
+
+}
+.contact{
+    background: #34547A;
+    max-width: 1150px;
+    width: 100% ;
+    margin: 0 auto;
+    color: white;
+}
+
